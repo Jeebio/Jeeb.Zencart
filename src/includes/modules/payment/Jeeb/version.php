@@ -1,3 +1,3 @@
 <?php
 
-define('JEEB_ZENCART_EXTENSION_VERSION', '1.0.2');
+define('JEEB_ZENCART_EXTENSION_VERSION', '3.0.0');

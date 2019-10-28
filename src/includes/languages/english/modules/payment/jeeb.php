@@ -1,5 +1,5 @@
 <?php
 
-define('MODULE_PAYMENT_JEEB_TEXT_TITLE', 'Bitcoin (powered by Jeeb)');
-define('MODULE_PAYMENT_JEEB_TEXT_DESCRIPTION', 'Accept Bitcoin with Jeeb.');
-define('MODULE_PAYMENT_JEEB_TEXT_CHECKOUT', 'Bitcoin');
+define('MODULE_PAYMENT_JEEB_TEXT_TITLE', 'Jeeb Payments');
+define('MODULE_PAYMENT_JEEB_TEXT_DESCRIPTION', 'The first Iranian platform for accepting and processing cryptocurrencies payments.');
+define('MODULE_PAYMENT_JEEB_TEXT_CHECKOUT', 'Jeeb Payments');
